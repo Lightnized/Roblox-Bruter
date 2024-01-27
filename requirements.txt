@@ -1,0 +1,5 @@
+pycryptodome
+requests
+tls-client
+colorama
+discord_webhook

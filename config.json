@@ -1,0 +1,6 @@
+{
+    "autocap_key": "1",
+    "threads": 100,
+    "log_to_webhook": true,
+    "webhook_url": "lol"
+}
